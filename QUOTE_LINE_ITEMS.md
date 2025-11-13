@@ -2,8 +2,25 @@
 ## Rehabilitation Management Platform
 
 **Client:** Marilu  
-**Date:** November 4, 2025  
+**Date:** November 13, 2025  
 **Prepared By:** QuantumX Software
+
+---
+
+## 📑 TABLE OF CONTENTS
+
+- [Web Application - Line Items](#-web-application---line-items)
+- [Mobile Application - Line Items](#-mobile-application---line-items)
+- [Pricing Summary](#-pricing-summary)
+- [Ongoing Costs](#-ongoing-costs)
+- [Payment Terms](#-payment-terms)
+  - [Option 1: Milestone-Based](#option-1-milestone-based-recommended)
+  - [Option 2: Monthly Installments](#option-2-monthly-installments-recommended)
+  - [Option 3: 50/50 Split](#option-3-5050-split)
+- [What's Not Included](#-whats-not-included)
+- [Critical Assumptions](#-critical-assumptions)
+- [Recommended Package](#-recommended-package)
+- [Important Notes](#important-notes)
 
 ---
 
@@ -46,16 +63,13 @@
 | 8 | Practitioner Features | 1.5 weeks | R3,000 | Dashboard, patient list, view progress, messaging. **View-only, no editing** |
 | 9 | Offline Functionality | 1 week | R2,000 | Download programs, cache videos, offline logging with sync |
 | 10 | Profile & Settings | 1 week | R2,000 | Patient profile, app settings, notifications, dark mode, video quality |
-| 11 | Appointments (Optional) | 1 week | R2,000 | **OPTIONAL:** View appointments, reminders, directions, calendar integration |
-| 12 | UI/UX Design & Animations | Ongoing | R0 | Patient-friendly design, animations, accessibility, screen reader support (covered as part of core development, not billed separately) |
-| 13 | Testing & Quality Assurance | 1.5 weeks | R3,000 | iOS & Android testing, device testing, performance, battery optimization |
-| 14 | App Store Deployment | 1 week | R0 | Apple & Google submission, screenshots, app store listings, review management (included in overall project, not billed separately) |
-| 15 | Documentation & Training | 0.5 weeks | R0 | User guides, video tutorials, in-app help, 1-hour training (included in overall project, not billed separately) |
-| 16 | Project Management | Ongoing | R0 | Weekly updates, check-ins, issue tracking, timeline management (included in overall project, not billed separately) |
-| | **SUBTOTAL (with appointments)** | **12-14 weeks** | **R34,000** | |
-| | **SUBTOTAL (without appointments)** | **10-12 weeks** | **R32,000** | |
-| | **DISCOUNTED TOTAL (with appts)** | | **R33,000** | **R1,000 discount applied** |
-| | **DISCOUNTED TOTAL (no appts)** | | **R31,000** | **R1,000 discount applied** |
+| 11 | UI/UX Design & Animations | Ongoing | R0 | Patient-friendly design, animations, accessibility, screen reader support (covered as part of core development, not billed separately) |
+| 12 | Testing & Quality Assurance | 1.5 weeks | R3,000 | iOS & Android testing, device testing, performance, battery optimization |
+| 13 | App Store Deployment | 1 week | R0 | Apple & Google submission, screenshots, app store listings, review management (included in overall project, not billed separately) |
+| 14 | Documentation & Training | 0.5 weeks | R0 | User guides, video tutorials, in-app help, 1-hour training (included in overall project, not billed separately) |
+| 15 | Project Management | Ongoing | R0 | Weekly updates, check-ins, issue tracking, timeline management (included in overall project, not billed separately) |
+| | **SUBTOTAL** | **10-12 weeks** | **R34,000** | |
+| | **DISCOUNTED TOTAL** | | **R33,000** | **R1,000 discount applied** |
 
 ---
 
@@ -64,12 +78,12 @@
 | Component | Individual Price | Bundle Price | Savings |
 |-----------|-----------------|--------------|---------|
 | Web App | R42,000 | - | - |
-| Mobile App | R31,000 - R33,000 | - | - |
-| **TOTAL (separate)** | **R73,000 - R75,000** | - | - |
-| **BUNDLE TOTAL** | - | **R65,000** | **R8,000 - R10,000** |
+| Mobile App | R33,000 | - | - |
+| **TOTAL (separate)** | **R75,000** | - | - |
+| **BUNDLE TOTAL** | - | **R65,000** | **R10,000** |
 
 **Bundle Benefits:**
-- Save $10,000 (12.5% discount)
+- Save R10,000 (12.5% discount)
 - Save 2-3 months (parallel development)
 - Seamless integration
 - Single project management
@@ -83,14 +97,14 @@
 
 | Usage Level | Monthly Cost | Notes |
 |-------------|--------------|-------|
-| 1-5 professionals | ~$10/month | Small practice |
-| 6-15 professionals | ~$15/month | Medium practice |
-| 16-30 professionals | ~$25/month | Large practice |
-| 30+ professionals | ~$35+/month | Multi-location |
+| 1-5 professionals | ~$10/month | Small practice (Assume 30 - 90 clients per professional) | 
+| 6-15 professionals | ~$15/month | Medium practice (Assume 30 - 90 clients per professional)|
+| 16-30 professionals | ~$25/month | Large practice (Assume 30 - 90 clients per professional)|
+| 30+ professionals | ~$35+/month | Multi-location (Assume 30 - 90 clients per professional)|
 
-**Includes:** Firebase Hosting, Firestore, Storage (videos), Authentication, Functions, Bandwidth
+**Includes:** Firebase Hosting, Firestore, Storage (Images), Authentication, Functions, Bandwidth
 
-**Cost varies based on:** Number of users, video storage amount, data transfer volume, database operations
+**Cost varies based on:** Number of users, image storage amount, data transfer volume, database operations
 
 ---
 
@@ -116,7 +130,7 @@
 
 ## 💳 PAYMENT TERMS
 
-### Option 1: Milestone-Based (Recommended)
+### Option 1: Milestone-Based 
 
 **Web + Mobile Bundle (R65,000):**
 | Milestone | Amount | When Due |
@@ -135,23 +149,23 @@
 | Milestone 3 (20%) | R8,400 | Testing complete |
 | Final (10%) | R4,200 | 30 days after launch |
 
-**Mobile App Only (R31,000 - R33,000):**
+**Mobile App Only (R33,000):**
 | Milestone | Amount | When Due |
 |-----------|--------|----------|
-| Deposit (30%) | R9,300 - R9,900 | Contract signing |
-| Milestone 1 (25%) | R7,750 - R8,250 | Exercise Features & Progress done |
-| Milestone 2 (25%) | R7,750 - R8,250 | Assessments & Communication done |
-| Final (20%) | R6,200 - R6,600 | App store approval |
+| Deposit (30%) | R9,900 | Contract signing |
+| Milestone 1 (25%) | R8,250 | Exercise Features & Progress done |
+| Milestone 2 (25%) | R8,250 | Assessments & Communication done |
+| Final (20%) | R6,600 | App store approval |
 
 ---
 
-### Option 2: Monthly Installments
+### Option 2: Monthly Installments (recommended)
 
 | Project | Deposit | Monthly Payment | Duration |
 |---------|---------|-----------------|----------|
 | Bundle (R65,000) | R16,250 (25%) | R9,700/month | 6 months |
 | Web Only (R42,000) | R8,400 (20%) | R7,900/month | 5 months |
-| Mobile Only (R31,000 - R33,000) | R8,250 (25%) | R6,500/month | 4 months |
+| Mobile Only (R33,000) | R8,250 (25%) | R6,200/month | 4 months |
 
 ---
 
@@ -161,7 +175,7 @@
 |---------|-------------|-----------|-------|
 | Bundle | R32,500 | R32,500 | R65,000 |
 | Web Only | R21,000 | R21,000 | R42,000 |
-| Mobile Only | R8,250 | R8,250 | R31,000 |
+| Mobile Only | R16,500 | R16,500 | R33,000 |
 
 ---
 
@@ -193,7 +207,7 @@
 **Bundle: Web + Mobile - R65,000**
 
 **Why?**
-- Best value (save $10,000)
+- Best value (save R10,000)
 - Fastest delivery (save 2-3 months)
 - Complete solution from day one
 - Better patient engagement
@@ -202,12 +216,6 @@
 **Payment:** R19,500 deposit + 3 milestones  
 **Timeline:** 5-6 months  
 **Ongoing:** R1,000-2,000/month hosting + optional support
-
-**Add Later (Phase 2):**
-- Professional exercise videos (R120k-360k)
-- Appointment scheduling (R48k-72k)
-- Billing system (R60k-96k)
-- Telehealth (R72k-120k)
 
 *(Discovery & planning time is included within these figures and not billed separately.)*
 
@@ -218,4 +226,4 @@
 
 ---
 
-*Last Updated: November 4, 2025*
+*Last Updated: November 13, 2025*

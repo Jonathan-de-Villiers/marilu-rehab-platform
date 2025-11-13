@@ -1,7 +1,7 @@
 # Rehabilitation Management Platform - Project Documentation
 
 **Client:** Marilu  
-**Date:** November 4, 2025  
+**Date:** November 13, 2025  
 **Prepared By:** QuantumX Software
 
 ---
@@ -131,7 +131,7 @@ This folder contains all the documentation for the proposed rehabilitation manag
 ✅ Quick pain logging  
 ✅ Message practitioner with photos/videos  
 ✅ Download programs for offline use  
-✅ Appointment reminders  
+  
 
 ### Mobile Application (For Practitioners)
 ✅ View patient list and compliance  
@@ -200,12 +200,8 @@ Total:       32 weeks (7-8 months)
 ## ❌ WHAT'S NOT INCLUDED
 
 - Exercise video content creation ($10,000-30,000 if professional)
-- Appointment scheduling system ($4,000-6,000)
 - Billing and invoicing ($5,000-8,000)
-- Telehealth video calls ($6,000-10,000)
-- Wearable device integration ($5,000-8,000)
-- AI features ($8,000-15,000)
-- Multi-language support ($2,000-4,000 per language)
+- Third-party integrations (practice management, accounting software)
 - Domain name and email ($50-200/year)
 
 **Note:** These can all be added later as Phase 2 features.
@@ -286,9 +282,8 @@ Read all documents thoroughly to understand every detail.
 ## 📞 CONTACT INFORMATION
 
 **QuantumX Software**  
-Email: [your-email]  
-Phone: [your-phone]  
-Website: [your-website]
+Email: jonnydevill606@gmail.com  
+Phone: 061 529 7697
 
 **Questions?** Don't hesitate to reach out. We're here to help you make the best decision for your practice.
 
@@ -383,4 +378,4 @@ Let's build something amazing together! 🚀
 
 ---
 
-*Last Updated: November 4, 2025*
+*Last Updated: November 13, 2025*

@@ -3,7 +3,20 @@
 
 **Client:** Marilu  
 **Prepared By:** QuantumX Software  
-**Date:** November 4, 2025
+**Date:** November 13, 2025
+
+---
+
+## 📑 TABLE OF CONTENTS
+
+- [Welcome](#-welcome)
+- [How to Use This Documentation](#-how-to-use-this-documentation)
+- [Quick Pricing View](#-quick-pricing-view)
+- [What's Included - Quick View](#-whats-included---quick-view)
+- [Document Guide](#-document-guide)
+- [Technology Stack](#-technology-stack)
+- [Next Steps](#-next-steps)
+- [Our Recommendation](#-our-recommendation)
 
 ---
 
@@ -275,12 +288,11 @@ A: Contact us anytime! We're here to help.
 
 **QuantumX Software**
 
-📧 Email: [your-email]  
-📱 Phone: [your-phone]  
-🌐 Website: [your-website]
+📧 Email: jonnydevill606@gmail.com  
+📱 Phone: 061 529 7697
 
 **Ready to discuss?**  
-Schedule a discovery call: [calendar-link]
+Email or call to schedule a discovery call!
 
 ---
 
@@ -376,4 +388,4 @@ We look forward to partnering with you on this exciting project.
 
 ---
 
-*Last Updated: November 4, 2025*
+*Last Updated: November 13, 2025*

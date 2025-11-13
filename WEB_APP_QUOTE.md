@@ -2,10 +2,28 @@
 ## Rehabilitation Management Platform - Web Application
 
 **Client:** Marilu  
-**Date:** November 4, 2025  
+**Date:** November 13, 2025  
 **Quote Valid For:** 60 days  
 **Project Duration:** 16-20 weeks  
 **Technology:** React.js + Firebase
+
+---
+
+## 📑 TABLE OF CONTENTS
+
+- [Executive Summary](#executive-summary)
+- [Detailed Cost Breakdown](#detailed-cost-breakdown) (16 Phases)
+- [Cost Summary](#cost-summary)
+- [Ongoing Costs](#ongoing-costs-after-launch)
+- [Bundle Discount](#bundle-discount)
+- [Not Included in Quote](#not-included-in-quote)
+- [Payment Terms](#payment-terms)
+- [Timeline](#timeline)
+- [Dependencies](#dependencies)
+- [Assumptions](#assumptions)
+- [Risks & Contingencies](#risks--contingencies)
+- [What Happens After Approval](#what-happens-after-you-approve)
+- [Next Steps](#next-steps)
 
 ---
 
@@ -405,42 +423,19 @@ The following items are **NOT** included and would require additional cost:
    - Studio rental
    - *Estimated additional cost: R120,000 - R360,000 for 500 exercises*
 
-2. **Pre-loaded Exercise Library**
-   - Licensing existing exercise videos
-   - Content curation
-   - *Estimated additional cost: R60,000 - R180,000*
-
-3. **Appointment Scheduling System**
-   - Calendar integration
-   - Booking system
-   - Reminders
-   - *Estimated additional cost: R48,000 - R72,000*
-
-4. **Billing & Invoicing**
+2. **Billing & Invoicing**
    - Invoice generation
    - Payment processing
    - Insurance claims
    - *Estimated additional cost: R60,000 - R96,000*
 
-5. **Telehealth Video Consultations**
-   - Video call integration
-   - Screen sharing
-   - Recording
-   - *Estimated additional cost: R72,000 - R120,000*
-
-6. **Third-Party Integrations**
+3. **Third-Party Integrations**
    - Practice management software
    - Accounting software
    - Email marketing tools
    - *Cost varies by integration: R24,000 - R60,000 each*
 
-7. **Custom Branding & Design**
-   - Logo design
-   - Brand identity
-   - Marketing materials
-   - *Estimated additional cost: R36,000 - R96,000*
-
-8. **Domain Name & Email**
+4. **Domain Name & Email**
    - Domain registration
    - Professional email setup
    - *Estimated additional cost: R1,000 - R4,000/year*
@@ -569,40 +564,6 @@ This quote is based on the following assumptions:
 
 ---
 
-## FREQUENTLY ASKED QUESTIONS
-
-**Q: Can we start with a smaller version and add features later?**  
-A: Yes! We can create a phased approach. Minimum viable product (MVP) would be approximately R280,000 - R300,000 and include: basic patient management, exercise library, simple program builder, and 2-3 assessments.
-
-**Q: Do we own the code?**  
-A: Yes, upon final payment, you own all custom code developed for your project.
-
-**Q: Can we make changes during development?**  
-A: Yes, but significant changes may affect cost and timeline. We have a change request process to manage this.
-
-**Q: What if we need more features later?**  
-A: We can provide additional development at R350/hour or quote new features separately.
-
-**Q: Is training included?**  
-A: Yes, 2 hours of live training plus video tutorials and documentation are included.
-
-**Q: What about ongoing support?**  
-A: First 30 days of post-launch support is included. After that, you can choose a support plan or pay hourly as needed.
-
-**Q: Can you help us create exercise videos?**  
-A: We can recommend video production partners, but video creation is not included in this quote.
-
-**Q: How many users can the system handle?**  
-A: The system is designed to scale. It can easily handle 50+ professionals and 10,000+ patients per practice.
-
-**Q: Is the system HIPAA/POPIA compliant?**  
-A: We build with compliance in mind, but final legal compliance review should be done by your legal team.
-
-**Q: Can we see examples of your work?**  
-A: Yes, we can provide case studies and references upon request.
-
----
-
 ## NEXT STEPS
 
 To proceed with this project:
@@ -615,16 +576,16 @@ To proceed with this project:
 
 **Contact Information:**  
 QuantumX Software  
-Email: [your-email]  
-Phone: [your-phone]  
+Email: jonnydevill606@gmail.com  
+Phone: 061 529 7697  
 
 ---
 
 **Quote Prepared By:** QuantumX Software  
-**Date:** November 4, 2025  
-**Valid Until:** January 3, 2026  
+**Date:** November 13, 2025  
+**Valid Until:** January 13, 2026  
 **Quote Reference:** MARILU-WEB-001
 
 ---
 
-*This quote is subject to change based on scope modifications or additional requirements discovered during the discovery phase. Any changes will be documented and approved before proceeding.*
+*This quote is subject to change based on scope modifications or additional requirements discovered during the discovery phase. Any changes will be documented and approved before proceeding. All pricing is in South African Rand (R) at an effective rate of ~R350/hour for development time.*

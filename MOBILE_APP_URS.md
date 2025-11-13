@@ -2,10 +2,33 @@
 ## Rehabilitation Management Platform - Mobile Application
 
 **Document Version:** 1.0  
-**Date:** November 4, 2025  
+**Date:** November 13, 2025  
 **Client:** Marilu  
 **Project Type:** Mobile Application (iOS & Android)  
 **Technology:** Flutter
+
+---
+
+## 📑 TABLE OF CONTENTS
+
+1. [Executive Summary](#1-executive-summary)
+2. [Patient Features (80% of app)](#2-patient-features-80-of-app)
+   - [Authentication & Onboarding](#21-authentication--onboarding)
+   - [Patient Dashboard](#22-patient-dashboard)
+   - [Exercise Programs](#23-exercise-programs)
+   - [Progress Tracking](#24-progress-tracking)
+   - [Assessments](#25-assessments)
+   - [Communication](#26-communication)
+   - [Profile & Settings](#27-profile--settings)
+3. [Practitioner Features (20% of app)](#3-practitioner-features-20-of-app)
+   - [Authentication](#31-authentication)
+   - [Practitioner Dashboard](#32-practitioner-dashboard)
+   - [Patient Management](#33-patient-management-view-only)
+4. [Technical Requirements](#4-technical-requirements)
+5. [User Experience](#5-user-experience)
+6. [Performance Requirements](#6-performance-requirements)
+7. [Security Requirements](#7-security-requirements)
+8. [Acceptance Criteria](#8-acceptance-criteria)
 
 ---
 
@@ -36,7 +59,6 @@ This document outlines the requirements for the mobile application component of 
 - Welcome screen with patient name
 - Today's exercise programs
 - Quick stats (exercises completed, streak, weekly %)
-- Upcoming appointments
 - Unread messages
 - Pending assessments
 - Quick action buttons
@@ -112,19 +134,10 @@ This document outlines the requirements for the mobile application component of 
 - Messages from practitioner
 - Assessment reminders
 - Daily exercise reminders
-- Appointment reminders
 - Milestone achievements
 - Customizable notification preferences
 
-### 2.7 Appointments (Optional)
-- View upcoming appointments
-- Appointment details
-- Add to device calendar
-- Reminders
-- Directions to clinic
-- Appointment history
-
-### 2.8 Profile & Settings
+### 2.7 Profile & Settings
 - View/edit profile information
 - Profile photo
 - Contact details
@@ -160,7 +173,6 @@ This document outlines the requirements for the mobile application component of 
 - Patients who completed exercises today
 - Pending assessments
 - Unread patient messages
-- Today's appointments
 - Quick access to patient list
 - Notifications summary
 

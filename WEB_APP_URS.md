@@ -2,9 +2,32 @@
 ## Rehabilitation Management Platform - Web Application
 
 **Document Version:** 1.0  
-**Date:** November 4, 2025  
+**Date:** November 13, 2025  
 **Client:** Marilu  
 **Project Type:** Web-based Rehabilitation Management System
+
+---
+
+## 📑 TABLE OF CONTENTS
+
+1. [Executive Summary](#1-executive-summary)
+2. [System Overview](#2-system-overview)
+3. [Functional Requirements](#3-functional-requirements)
+   - [Practice & Professional Management](#31-practice--professional-management)
+   - [Patient Management](#32-patient-management)
+   - [Exercise Library](#33-exercise-library)
+   - [Program Builder](#34-program-builder)
+   - [Assessment System](#35-assessment-system)
+   - [Communication](#36-communication)
+   - [Dashboard & Analytics](#37-dashboard--analytics)
+4. [Technical Requirements](#4-technical-requirements)
+5. [Security Requirements](#5-security-requirements)
+6. [User Roles & Permissions](#6-user-roles--permissions)
+7. [Integration Requirements](#7-integration-requirements)
+8. [Performance Requirements](#8-performance-requirements)
+9. [Acceptance Criteria](#9-acceptance-criteria)
+10. [Future Enhancements](#10-future-enhancements-phase-2)
+11. [Glossary](#11-glossary)
 
 ---
 
@@ -328,7 +351,6 @@ The web application serves as the primary management tool for rehabilitation pra
 **What it does:** Overview of daily activities and patient status.
 
 **Features:**
-- Today's appointments (if integrated with scheduling)
 - Active patient count
 - Pending assessments
 - Recent patient activity
@@ -566,15 +588,8 @@ The web application will be considered successful when:
 
 ## 10. FUTURE ENHANCEMENTS (Phase 2)
 
-- Appointment scheduling and calendar
 - Billing and invoicing
 - Insurance claim management
-- Telehealth video consultations
-- AI-powered exercise recommendations
-- Integration with wearable devices
-- Multi-language support
-- Advanced analytics and machine learning insights
-- Patient portal (web-based)
 - API for third-party integrations
 
 ---

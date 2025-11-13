@@ -2,8 +2,27 @@
 ## Project Summary & Recommendations
 
 **Client:** Marilu  
-**Date:** November 4, 2025  
+**Date:** November 13, 2025  
 **Prepared By:** QuantumX Software
+
+---
+
+## 📑 TABLE OF CONTENTS
+
+- [Overview](#overview)
+- [What We're Building](#what-were-building)
+- [Pricing Summary](#pricing-summary)
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [What About Exercise Videos?](#what-about-exercise-videos)
+- [Optional Features](#optional-features-can-add-later)
+- [Timeline Comparison](#timeline-comparison)
+- [Why Choose the Bundle?](#why-choose-the-bundle)
+- [Payment Structure](#payment-structure)
+- [Next Steps](#next-steps)
+- [Our Recommendation](#our-recommendation)
+- [Contact & Next Steps](#contact--next-steps)
+- [Document Index](#appendix-document-index)
 
 ---
 
@@ -151,11 +170,8 @@ Plus quality-of-life features for practitioners to check on patients while on th
 
 | Feature | Cost | When to Add |
 |---------|------|-------------|
-| Appointment Scheduling | $4,000-6,000 | Phase 2 |
 | Billing & Invoicing | $5,000-8,000 | Phase 2 |
-| Telehealth Video Calls | $6,000-10,000 | Phase 2 |
-| Wearable Integration | $5,000-8,000 | Phase 3 |
-| AI Form Checker | $8,000-15,000 | Phase 3 |
+| Third-Party Integrations | $2,000-5,000 | Phase 2 |
 
 ---
 
@@ -341,48 +357,6 @@ Your platform will have:
 
 ---
 
-## FREQUENTLY ASKED QUESTIONS
-
-### Q: Can we start with a smaller MVP?
-**A:** Yes! We can build a minimal version for $30,000 that includes basic patient management, exercise library, simple program builder, and 3 assessments. You can add features later.
-
-### Q: What if we only have budget for one platform?
-**A:** Start with the web app ($50,000). Patients can access via web browser on their phones initially. Add mobile app later when budget allows.
-
-### Q: How do we handle exercise videos?
-**A:** Three options:
-1. Record yourself with a smartphone (free, but time-consuming)
-2. Hire a videographer ($50-150 per exercise)
-3. License an existing library ($5,000-15,000)
-
-We recommend starting with 50-100 self-recorded exercises.
-
-### Q: Can we add features later?
-**A:** Absolutely! We can add features anytime at $100-125/hour or quote them separately.
-
-### Q: What about ongoing support?
-**A:** First 30 days post-launch support is included. After that, choose a support plan ($800-3,200/month) or pay hourly as needed.
-
-### Q: Do we own the code?
-**A:** Yes! Upon final payment, you own all custom code developed for your project.
-
-### Q: How long until we can start using it?
-**A:** 
-- MVP: 10-12 weeks
-- Full web app: 16-20 weeks
-- Web + Mobile bundle: 20-24 weeks
-
-### Q: What if we need changes during development?
-**A:** Minor changes are included. Significant changes may affect cost and timeline, but we have a process to manage this smoothly.
-
-### Q: Can you help us market the platform to patients?
-**A:** We focus on development, but we can recommend marketing partners or provide basic marketing materials.
-
-### Q: What happens if we're not happy with something?
-**A:** We have regular check-ins and demos every 2 weeks. You'll see progress throughout and can provide feedback. We include up to 3 rounds of revisions per major feature.
-
----
-
 ## OUR RECOMMENDATION
 
 Based on your requirements and the reference site (rehabit.co.za), we recommend:
@@ -417,12 +391,11 @@ Start with **Standard Support ($1,600/month)** for the first 6 months, then eval
 Ready to move forward? Have questions?
 
 **QuantumX Software**  
-Email: [your-email]  
-Phone: [your-phone]  
-Website: [your-website]
+Email: jonnydevill606@gmail.com  
+Phone: 061 529 7697
 
 **Schedule a Discovery Call:**  
-[Link to calendar booking]
+Contact us via email or phone to set up a time!
 
 **What to Prepare:**
 - Questions about the URS documents
@@ -448,4 +421,4 @@ We're excited about the potential of this project and look forward to helping yo
 
 ---
 
-*Document prepared with care by QuantumX Software | November 4, 2025*
+*Document prepared with care by QuantumX Software | November 13, 2025*

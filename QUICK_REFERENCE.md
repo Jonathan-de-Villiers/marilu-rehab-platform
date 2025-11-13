@@ -1,7 +1,7 @@
 # Quick Reference Guide
 ## Rehabilitation Management Platform
 
-**Client:** Marilu | **Date:** November 4, 2025
+**Client:** Marilu | **Date:** November 13, 2025
 
 ---
 
@@ -131,10 +131,6 @@ Monthly Costs After Launch:
 │     ✓ Push notifications                                   │
 │     ✓ Daily exercise reminders                             │
 │                                                              │
-│  📅 Appointments                                             │
-│     ✓ View upcoming appointments                           │
-│     ✓ Reminders                                            │
-│     ✓ Directions to clinic                                 │
 └─────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────┐
@@ -287,12 +283,8 @@ Alternative: 50/50 Split
 └─────────────────────────────────────────────────────────┘
 
 Optional Add-Ons (Can add later):
-├─ Appointment Scheduling:     $4,000-6,000
 ├─ Billing & Invoicing:        $5,000-8,000
-├─ Telehealth Video Calls:     $6,000-10,000
-├─ Wearable Integration:       $5,000-8,000
-├─ AI Features:                $8,000-15,000
-└─ Multi-language:             $2,000-4,000/language
+└─ Third-Party Integrations:   $2,000-5,000
 ```
 
 ---
@@ -364,9 +356,8 @@ Optional Add-Ons (Can add later):
 ## 📞 CONTACT
 
 **QuantumX Software**  
-Email: [your-email]  
-Phone: [your-phone]  
-Website: [your-website]
+Email: jonnydevill606@gmail.com  
+Phone: 061 529 7697
 
 **Ready to discuss?** Schedule a call to go over any questions!
 
@@ -405,4 +396,4 @@ MOBILE_APP_QUOTE.md      ← Mobile app costs (12 pages)
 
 ---
 
-*Last Updated: November 4, 2025 | QuantumX Software*
+*Last Updated: November 13, 2025 | QuantumX Software*

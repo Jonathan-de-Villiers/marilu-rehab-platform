@@ -2,10 +2,28 @@
 ## Rehabilitation Management Platform - Mobile Application
 
 **Client:** Marilu  
-**Date:** November 4, 2025  
+**Date:** November 13, 2025  
 **Quote Valid For:** 60 days  
 **Project Duration:** 10-12 weeks  
 **Technology:** Flutter (iOS & Android)
+
+---
+
+## 📑 TABLE OF CONTENTS
+
+- [Executive Summary](#executive-summary)
+- [Detailed Cost Breakdown](#detailed-cost-breakdown) (15 Features)
+- [Cost Summary](#cost-summary)
+- [Ongoing Costs](#ongoing-costs-after-launch)
+- [Bundle Discount](#bundle-discount)
+- [Not Included in Quote](#not-included-in-quote)
+- [Payment Terms](#payment-terms)
+- [Timeline](#timeline)
+- [Dependencies](#dependencies)
+- [Assumptions](#assumptions)
+- [Risks & Contingencies](#risks--contingencies)
+- [What Happens After Approval](#what-happens-after-you-approve)
+- [Next Steps](#next-steps)
 
 ---
 
@@ -13,7 +31,7 @@
 
 This quote covers the development of a mobile application for the rehabilitation management platform. The app is primarily designed for **patients** to access their exercise programs, complete assessments, and communicate with practitioners. It includes **quality-of-life features for practitioners** to monitor patients on the go.
 
-**Total Project Cost:** R31,000 - R33,000  
+**Total Project Cost:** R33,000  
 **App Store Fees:** ±R2,000/year (Apple) + ±R500 one-time (Google)
 
 ---
@@ -38,7 +56,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 2. AUTHENTICATION & ONBOARDING
 **Duration:** 1.5 weeks  
-**Cost:** R24,000
+**Cost:** R3,000
 
 **Features Included:**
 - Patient registration with invitation code
@@ -57,7 +75,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 3. PATIENT DASHBOARD & NAVIGATION
 **Duration:** 1 week  
-**Cost:** R20,000
+**Cost:** R2,000
 
 **Features Included:**
 - Patient home screen with daily overview
@@ -65,7 +83,6 @@ This quote covers the development of a mobile application for the rehabilitation
 - Navigation menu
 - Tab bar navigation
 - Quick action buttons
-- Upcoming appointments display
 - Unread messages indicator
 - Pending assessments badge
 
@@ -75,7 +92,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 4. EXERCISE PROGRAM FEATURES
 **Duration:** 3 weeks  
-**Cost:** R56,000
+**Cost:** R6,000
 
 **Features Included:**
 
@@ -119,7 +136,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 5. PROGRESS TRACKING & GAMIFICATION
 **Duration:** 1.5 weeks  
-**Cost:** R24,000
+**Cost:** R3,000
 
 **Features Included:**
 - Calendar view with completed days
@@ -137,7 +154,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 6. ASSESSMENTS & QUESTIONNAIRES
 **Duration:** 2 weeks  
-**Cost:** R36,000
+**Cost:** R4,000
 
 **Features Included:**
 - Mobile-optimized questionnaire interface
@@ -163,7 +180,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 7. COMMUNICATION SYSTEM
 **Duration:** 1.5 weeks  
-**Cost:** R28,000
+**Cost:** R3,000
 
 **Features Included:**
 
@@ -189,7 +206,6 @@ This quote covers the development of a mobile application for the rehabilitation
   - New programs assigned
   - Assessment reminders
   - Daily exercise reminders
-  - Appointment reminders
   - Milestone achievements
 - Customizable notification preferences
 - Quiet hours setting
@@ -200,7 +216,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 8. PRACTITIONER FEATURES (QUALITY-OF-LIFE)
 **Duration:** 1.5 weeks  
-**Cost:** R24,000
+**Cost:** R3,000
 
 **Features Included:**
 
@@ -209,7 +225,6 @@ This quote covers the development of a mobile application for the rehabilitation
 - Patients who completed exercises today
 - Pending assessments
 - Unread messages
-- Today's appointments
 - Quick access to patient list
 
 **Patient List & Profiles:**
@@ -235,7 +250,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 9. OFFLINE FUNCTIONALITY
 **Duration:** 1 week  
-**Cost:** R16,000
+**Cost:** R2,000
 
 **Features Included:**
 - Download exercise programs for offline use
@@ -252,7 +267,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ### 10. PROFILE & SETTINGS
 **Duration:** 1 week  
-**Cost:** R16,000
+**Cost:** R2,000
 
 **Features Included:**
 
@@ -282,23 +297,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ---
 
-### 11. APPOINTMENTS (OPTIONAL FEATURE)
-**Duration:** 1 week  
-**Cost:** R16,000
-
-**Features Included:**
-- View upcoming appointments
-- Appointment details
-- Add to device calendar
-- Appointment reminders (1 day, 1 hour before)
-- Directions to clinic (Google Maps integration)
-- Appointment history
-
-**What this means:** Patients can see their upcoming appointments and get reminders so they don't miss them.
-
----
-
-### 12. UI/UX DESIGN & ANIMATIONS
+### 11. UI/UX DESIGN & ANIMATIONS
 **Duration:** Ongoing throughout project  
 **Cost:** R0
 
@@ -320,9 +319,9 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ---
 
-### 13. TESTING & QUALITY ASSURANCE
+### 12. TESTING & QUALITY ASSURANCE
 **Duration:** 1.5 weeks  
-**Cost:** R24,000
+**Cost:** R3,000
 
 **Features Included:**
 - Functional testing on iOS and Android
@@ -341,7 +340,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ---
 
-### 14. APP STORE DEPLOYMENT
+### 13. APP STORE DEPLOYMENT
 **Duration:** 1 week  
 **Cost:** R0
 
@@ -362,7 +361,7 @@ This quote covers the development of a mobile application for the rehabilitation
 
 ---
 
-### 15. DOCUMENTATION & TRAINING
+### 14. DOCUMENTATION & TRAINING
 **Duration:** 0.5 weeks  
 **Cost:** R0
 
@@ -371,14 +370,13 @@ This quote covers the development of a mobile application for the rehabilitation
 - Practitioner user guide (PDF)
 - Video tutorials (3-5 short videos)
 - In-app help screens
-- FAQ document
 - Training session (1 hour via video call)
 
 **What this means:** Teaching users how to use the mobile app with guides and videos.
 
 ---
 
-### 16. PROJECT MANAGEMENT
+### 15. PROJECT MANAGEMENT
 **Duration:** Throughout project  
 **Cost:** R0
 
@@ -399,26 +397,23 @@ This quote covers the development of a mobile application for the rehabilitation
 | Phase | Duration | Cost |
 |-------|----------|------|
 | Discovery & Planning | 1 week | R0 |
-| Authentication & Onboarding | 1.5 weeks | R24,000 |
-| Patient Dashboard & Navigation | 1 week | R20,000 |
-| Exercise Program Features | 3 weeks | R56,000 |
-| Progress Tracking & Gamification | 1.5 weeks | R24,000 |
-| Assessments & Questionnaires | 2 weeks | R36,000 |
-| Communication System | 1.5 weeks | R28,000 |
-| Practitioner Features | 1.5 weeks | R24,000 |
-| Offline Functionality | 1 week | R16,000 |
-| Profile & Settings | 1 week | R16,000 |
-| Appointments (Optional) | 1 week | R16,000 |
+| Authentication & Onboarding | 1.5 weeks | R3,000 |
+| Patient Dashboard & Navigation | 1 week | R2,000 |
+| Exercise Program Features | 3 weeks | R6,000 |
+| Progress Tracking & Gamification | 1.5 weeks | R3,000 |
+| Assessments & Questionnaires | 2 weeks | R4,000 |
+| Communication System | 1.5 weeks | R3,000 |
+| Practitioner Features | 1.5 weeks | R3,000 |
+| Offline Functionality | 1 week | R2,000 |
+| Profile & Settings | 1 week | R2,000 |
 | UI/UX Design & Animations | Ongoing | R0 |
-| Testing & Quality Assurance | 1.5 weeks | R24,000 |
+| Testing & Quality Assurance | 1.5 weeks | R3,000 |
 | App Store Deployment | 1 week | R0 |
 | Documentation & Training | 0.5 weeks | R0 |
 | Project Management | Ongoing | R0 |
-| **TOTAL (with appointments)** | **12-14 weeks** | **R34,000** |
-| **TOTAL (without appointments)** | **10-12 weeks** | **R32,000** |
+| **TOTAL** | **10-12 weeks** | **R34,000** |
 
-**DISCOUNTED TOTAL (with appointments):** R33,000  
-**DISCOUNTED TOTAL (without appointments):** R31,000
+**DISCOUNTED TOTAL:** R33,000
 
 ---
 
@@ -461,11 +456,11 @@ If you purchase both web and mobile app development together:
 
 **Individual Prices:**
 - Web App: R42,000
-- Mobile App: R31,000 - R33,000
-- **Total:** R73,000 - R75,000
+- Mobile App: R33,000
+- **Total:** R75,000
 
 **Bundle Price:** R65,000  
-**You Save:** R8,000 - R10,000 (±10-13% discount)
+**You Save:** R10,000 (13.3% discount)
 
 **Bundle Benefits:**
 - Coordinated development timeline
@@ -492,54 +487,24 @@ The following items are **NOT** included and would require additional cost:
    - Google Fit integration
    - *Estimated additional cost: R60,000 - R96,000*
 
-3. **Video Call Consultations**
-   - In-app video calling
-   - Screen sharing
-   - *Estimated additional cost: R48,000 - R72,000*
-
-4. **Social Features**
-   - Patient community
-   - Social sharing
-   - Leaderboards
-   - *Estimated additional cost: R36,000 - R60,000*
-
-5. **AI Features**
-   - Form checker using camera
-   - Exercise recommendations
-   - *Estimated additional cost: R96,000 - R180,000*
-
-6. **Augmented Reality**
-   - AR exercise demonstrations
-   - 3D body models
-   - *Estimated additional cost: R120,000 - R240,000*
-
-7. **Multi-Language Support**
-   - Translation
-   - Localization
-   - *Estimated additional cost: R24,000 - R48,000 per language*
-
-8. **Custom Animations**
-   - Advanced motion graphics
-   - Custom illustrations
-   - *Estimated additional cost: R36,000 - R72,000*
 
 ---
 
 ## PAYMENT TERMS
 
-### Option 1: Milestone-Based (Recommended)
-- **Deposit (30%):** R9,300 - R9,900 - Due upon contract signing
-- **Milestone 1 (25%):** R7,750 - R8,250 - After completion of Exercise Features & Progress Tracking
-- **Milestone 2 (25%):** R7,750 - R8,250 - After completion of Assessments & Communication
-- **Final (20%):** R6,200 - R6,600 - After app store approval and launch
+### Option 1: Milestone-Based
+- **Deposit (30%):** R9,900 - Due upon contract signing
+- **Milestone 1 (25%):** R8,250 - After completion of Exercise Features & Progress Tracking
+- **Milestone 2 (25%):** R8,250 - After completion of Assessments & Communication
+- **Final (20%):** R6,600 - After app store approval and launch
 
-### Option 2: Monthly Installments
-- **Deposit (25%):** R7,750 - R8,250 - Due upon contract signing
-- **Monthly payments:** R6,100 - R6,500/month for 4 months
+### Option 2: Monthly Installments (recommended)
+- **Deposit (25%):** R8,250 - Due upon contract signing
+- **Monthly payments:** R6,200/month for 4 months
 
 ### Option 3: 50/50 Split
-- **50% Deposit:** R15,500 - R16,500 - Due upon contract signing
-- **50% Final:** R15,500 - R16,500 - Upon app store approval
+- **50% Deposit:** R16,500 - Due upon contract signing
+- **50% Final:** R16,500 - Upon app store approval
 
 ---
 
@@ -563,7 +528,6 @@ The following items are **NOT** included and would require additional cost:
 - Practitioner Features
 - Offline Functionality
 - Profile & Settings
-- Appointments (if included)
 
 ### Phase 4: Polish & Launch (Weeks 10-12)
 - Testing & QA on multiple devices
@@ -664,46 +628,12 @@ This quote is based on the following assumptions:
 
 ---
 
-## FREQUENTLY ASKED QUESTIONS
-
-**Q: Do we need both iOS and Android?**  
-A: Flutter allows us to build both from the same codebase, so the cost difference is minimal. We recommend launching on both platforms.
-
-**Q: Can we launch on one platform first?**  
-A: Yes, we can launch on iOS first, then Android (or vice versa). This would reduce initial cost by about 15-20%.
-
-**Q: How long does app store approval take?**  
-A: Apple typically takes 1-3 days, Google takes 1-7 days. We build this into the timeline.
-
-**Q: Can patients use the app without the web app?**  
-A: No, the mobile app requires the web app backend. Practitioners must create programs on the web app first.
-
-**Q: Will the app work on tablets?**  
-A: Yes, the app is designed to work on both phones and tablets.
-
-**Q: Can we update the app after launch?**  
-A: Yes, we can provide updates. Minor updates are included in support plans, major features would be quoted separately.
-
-**Q: What if we want to add features later?**  
-A: We can provide additional development at R350/hour or quote new features separately.
-
-**Q: Do we own the app?**  
-A: Yes, upon final payment, you own all custom code and can publish under your own accounts.
-
-**Q: What about app analytics?**  
-A: Basic Firebase Analytics is included. Advanced analytics would be additional.
-
-**Q: Can we beta test before launch?**  
-A: Yes, we'll provide TestFlight (iOS) and Firebase App Distribution (Android) for beta testing.
-
----
-
 ## NEXT STEPS
 
 To proceed with this project:
 
 1. **Review this quote** and the Mobile App URS document
-2. **Decide on bundle** (Web + Mobile together saves $10,000)
+2. **Decide on bundle** (Web + Mobile together saves R10,000)
 3. **Schedule a call** to discuss any questions
 4. **Set up app store accounts** (Apple & Google)
 5. **Approve the quote** and scope of work
@@ -712,16 +642,16 @@ To proceed with this project:
 
 **Contact Information:**  
 QuantumX Software  
-Email: [your-email]  
-Phone: [your-phone]  
+Email: jonnydevill606@gmail.com  
+Phone: 061 529 7697  
 
 ---
 
 **Quote Prepared By:** QuantumX Software  
-**Date:** November 4, 2025  
-**Valid Until:** January 3, 2026  
+**Date:** November 13, 2025  
+**Valid Until:** January 13, 2026  
 **Quote Reference:** MARILU-MOBILE-001
 
 ---
 
-*This quote is subject to change based on scope modifications or additional requirements discovered during the discovery phase. Any changes will be documented and approved before proceeding. All pricing is in South African Rand (R) at an effective rate of R350/hour for development time.*
+*This quote is subject to change based on scope modifications or additional requirements discovered during the discovery phase. Any changes will be documented and approved before proceeding. All pricing is in South African Rand (R) at an effective rate of ~R350/hour for development time.*
