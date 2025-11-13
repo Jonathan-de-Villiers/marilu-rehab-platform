@@ -219,7 +219,7 @@ Total: 7-8 months
 - Secure file storage for videos
 - Pay-as-you-grow pricing
 - No server management required
-- Excellent for healthcare apps (HIPAA-compliant when configured correctly)
+- Scalable infrastructure (HIPAA-compliant when configured correctly)
 
 ---
 

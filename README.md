@@ -361,7 +361,6 @@ How will we know this project is successful?
 - ✅ Clear, detailed documentation (you're reading it!)
 - ✅ Transparent pricing with no hidden costs
 - ✅ Modern, scalable technology
-- ✅ Healthcare software experience
 - ✅ Regular communication and demos
 - ✅ You own the code
 - ✅ Ongoing support options

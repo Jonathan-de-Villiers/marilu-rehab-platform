@@ -312,7 +312,6 @@ Email or call to schedule a discovery call!
 ✅ **Clear Documentation** - You're reading it!  
 ✅ **Transparent Pricing** - No hidden costs  
 ✅ **Modern Technology** - React, Flutter, Firebase  
-✅ **Healthcare Experience** - We understand your needs  
 ✅ **Regular Communication** - Weekly updates & demos  
 ✅ **You Own the Code** - Full ownership after payment  
 ✅ **Ongoing Support** - We're here for the long term  
