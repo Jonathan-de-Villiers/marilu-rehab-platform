@@ -16,7 +16,7 @@ This folder contains all the documentation for the proposed rehabilitation manag
 **Length:** 10 pages  
 **Key Info:**
 - Project overview
-- Pricing summary ($70,000 bundle)
+- Pricing summary (R65,000 bundle)
 - Recommended approach
 - Timeline comparison
 - ROI analysis
@@ -62,10 +62,10 @@ This folder contains all the documentation for the proposed rehabilitation manag
 **Read this if:** You want to see exactly what you're paying for in the web app  
 **Length:** 15 pages  
 **Key Info:**
-- Phase-by-phase cost breakdown ($50,000 total)
+- Phase-by-phase cost breakdown (R42,000 total)
 - 16 development phases explained in plain English
 - Timeline: 16-20 weeks
-- Ongoing costs ($150-400/month hosting)
+- Ongoing costs (R2,500-6,000/month hosting)
 - Optional support plans
 - Payment terms
 - What's NOT included
@@ -78,10 +78,10 @@ This folder contains all the documentation for the proposed rehabilitation manag
 **Read this if:** You want to see exactly what you're paying for in the mobile app  
 **Length:** 12 pages  
 **Key Info:**
-- Phase-by-phase cost breakdown ($30,000 total)
-- 16 development phases explained in plain English
+- Phase-by-phase cost breakdown (R33,000 total)
+- 15 development features explained in plain English
 - Timeline: 10-12 weeks
-- Bundle discount ($10,000 savings)
+- Bundle discount (R10,000 savings)
 - App store fees
 - Optional support plans
 - Payment terms
@@ -94,15 +94,14 @@ This folder contains all the documentation for the proposed rehabilitation manag
 
 | Option | Cost | Timeline | Best For |
 |--------|------|----------|----------|
-| **Web + Mobile Bundle** ⭐ | **$70,000** | 20-24 weeks | Complete solution, best value |
-| Web App Only | $50,000 | 16-20 weeks | Start with practitioners |
-| Mobile App Only | $30,000 | 10-12 weeks | Requires web app backend |
-| Web App MVP | $30,000 | 10-12 weeks | Smaller budget, validate concept |
+| **Web + Mobile Bundle** ⭐ | **R65,000** | 20-24 weeks | Complete solution, best value |
+| Web App Only | R42,000 | 16-20 weeks | Start with practitioners |
+| Mobile App Only | R33,000 | 10-12 weeks | Requires web app backend |
 
 **Ongoing Costs:**
-- Hosting: $150-400/month
-- App Store Fees: $124/year
-- Support (optional): $800-3,200/month
+- Hosting: R2,500-6,000/month
+- App Store Fees: ~R2,500/year
+- Support (optional): R3,500-14,000/month
 
 ---
 
@@ -199,10 +198,10 @@ Total:       32 weeks (7-8 months)
 
 ## ❌ WHAT'S NOT INCLUDED
 
-- Exercise video content creation ($10,000-30,000 if professional)
-- Billing and invoicing ($5,000-8,000)
+- Exercise video content creation (R120,000-360,000 if professional)
+- Billing and invoicing (R60,000-96,000)
 - Third-party integrations (practice management, accounting software)
-- Domain name and email ($50-200/year)
+- Domain name and email (R1,000-4,000/year)
 
 **Note:** These can all be added later as Phase 2 features.
 
@@ -210,20 +209,18 @@ Total:       32 weeks (7-8 months)
 
 ## 🚀 RECOMMENDED APPROACH
 
-### Our Recommendation: Full Bundle - $70,000
+### Our Recommendation: Full Bundle - R65,000
 
 **Why?**
-1. ✅ Save $10,000 vs. building separately
+1. ✅ Save R10,000 vs. building separately
 2. ✅ Faster time to market (2-3 months saved)
 3. ✅ Better patient engagement with mobile app
 4. ✅ Complete solution from day one
 5. ✅ Seamless integration between web and mobile
 
 **Payment Plan:**
-- Deposit (30%): $21,000
-- Milestone 1 (25%): $17,500
-- Milestone 2 (25%): $17,500
-- Final (20%): $14,000
+- Deposit (25%): R16,250
+- Monthly payments: R9,700/month for 5 months
 
 **Timeline:** 5-6 months
 
