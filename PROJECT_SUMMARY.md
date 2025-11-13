@@ -299,37 +299,6 @@ Your platform will have:
 
 ---
 
-## RETURN ON INVESTMENT (ROI)
-
-### Time Savings
-- **Before:** 15-20 minutes to create and print exercise program
-- **After:** 2-3 minutes to assign template and send to patient
-- **Savings:** 12-17 minutes per patient
-- **With 20 patients/week:** 4-5 hours saved per week
-
-### Improved Compliance
-- **Industry Average:** 30-40% exercise compliance
-- **With App:** 50-70% compliance (studies show)
-- **Result:** Better patient outcomes, fewer follow-up visits
-
-### Patient Capacity
-- **Efficiency gains:** See 2-3 more patients per week
-- **Additional revenue:** $200-400/week (depending on rates)
-- **Annual increase:** $10,000-20,000
-
-### Professional Image
-- Modern platform attracts new patients
-- Differentiate from competitors
-- Higher perceived value = potential for premium pricing
-
-### Break-Even Analysis
-- **Investment:** $70,000
-- **Monthly savings/revenue:** $1,500-2,500
-- **Break-even:** 28-47 months (2.3-3.9 years)
-- **But:** Improved outcomes and patient satisfaction are priceless
-
----
-
 ## NEXT STEPS
 
 ### 1. Review Documents

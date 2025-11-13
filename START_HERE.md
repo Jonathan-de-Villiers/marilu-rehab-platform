@@ -34,7 +34,7 @@ Get all the key facts, pricing, and features at a glance.
 
 ### If you have 1 hour:
 **Read:** `PROJECT_SUMMARY.md`  
-Comprehensive overview with recommendations, ROI analysis, and next steps.
+Comprehensive overview with recommendations and next steps.
 
 ### If you have 2-3 hours:
 **Read all documents** in this order:
@@ -57,7 +57,6 @@ Comprehensive overview with recommendations, ROI analysis, and next steps.
 - Timeline comparisons
 - Decision matrix
 - Payment schedules
-- ROI calculations
 - Next steps checklist
 
 **Read this if:** You want quick answers and visual summaries.
@@ -75,8 +74,6 @@ Comprehensive overview with recommendations, ROI analysis, and next steps.
 - Technical stack justification
 - Risks and mitigation
 - Success factors
-- ROI analysis
-- FAQs
 - Next steps
 
 **Read this if:** You want to understand the full project and our recommendations.
@@ -341,9 +338,8 @@ Email or call to schedule a discovery call!
 │  • Secure messaging                                     │
 │  • Offline mode                                         │
 ├─────────────────────────────────────────────────────────┤
-│  INVESTMENT: $70,000 (bundle)                           │
+│  INVESTMENT: R65,000 (bundle)                           │
 │  TIMELINE: 5-6 months                                   │
-│  ROI: 2.3-3.9 years                                     │
 └─────────────────────────────────────────────────────────┘
 ```
 

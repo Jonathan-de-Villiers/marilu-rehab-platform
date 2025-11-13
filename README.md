@@ -19,7 +19,6 @@ This folder contains all the documentation for the proposed rehabilitation manag
 - Pricing summary (R65,000 bundle)
 - Recommended approach
 - Timeline comparison
-- ROI analysis
 - Next steps
 
 ---
@@ -335,7 +334,6 @@ How will we know this project is successful?
 - 💬 Easy communication with practitioner
 
 ### For Your Practice:
-- 💰 ROI within 2.3-3.9 years
 - 🚀 Competitive advantage in your market
 - ⚡ Operational efficiency gains
 - 😊 Improved patient satisfaction and outcomes
